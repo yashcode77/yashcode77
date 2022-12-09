@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashcode77
+- 👋 Hi, I’m Yash Chhaproo
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning frontend languages and frameworks
 - 💞️ I’m looking to collaborate on open source projects
