@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Chhaproo
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning frontend languages and frameworks
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: yashchhaproo@gmail.com
 
